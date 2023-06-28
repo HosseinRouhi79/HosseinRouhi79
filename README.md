@@ -1,5 +1,7 @@
 ### Hi there 👋
+I'm Hossein, a PHP developer with 2 years of experience in creating dynamic web applications using PHP, HTML, CSS, JavaScript, and MySQL. I've worked on diverse projects, including e-commerce websites and CMS, and possess a strong understanding of software development methodologies. I'm always eager to learn new technologies and collaborate with cross-functional teams to deliver high-quality work.
 
+🌱 I’m currently learning Go
 <!--
 **HosseinRouhi79/HosseinRouhi79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
