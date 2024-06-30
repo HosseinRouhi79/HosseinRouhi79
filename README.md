@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there wave<br><br>I'm Hossein, a PHP developer with 2 years of experience in creating dynamic web applications using PHP, HTML, CSS, JavaScript, and MySQL. I've worked on diverse projects, including e-commerce websites and CMS, and possess a strong understanding of software development methodologies. I'm always eager to learn new technologies and collaborate with cross-functional teams to deliver high-quality work.<br><br>🌱 I’m currently learning Go
+Hi there wave<br><br>As a Golang developer, I have honed my skills in developing high-performance, concurrent applications. My experience spans across various projects, where I've successfully designed and implemented APIs, microservices, and other backend systems that require low latency and high throughput. My interest in data engineering has led me to work on projects involving data pipelines, ETL processes, and big data technologies.<br><br>🌱 I’m currently learning Go
 
 
 ## 🌐 Socials:
