@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there wave<br><br>As a Golang developer, I have honed my skills in developing high-performance, concurrent applications. My experience spans across various projects, where I've successfully designed and implemented APIs, microservices, and other backend systems that require low latency and high throughput. My interest in data engineering has led me to work on projects involving data pipelines, ETL processes, and big data technologies.<br><br>🌱 I’m currently learning Go
+Hi there wave<br><br>As a Golang developer, I have honed my skills in developing high-performance, concurrent applications. My experience spans across various projects, where I've successfully designed and implemented APIs, microservices, and other backend systems that require low latency and high throughput. My interest in data engineering has led me to work on projects involving data pipelines, ETL processes, and big data technologies.<br><br>🌱 I’m currently learning Data Engineering
 
 
 ## 🌐 Socials:
